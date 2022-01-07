@@ -13,6 +13,7 @@
 		457A56AA2788DC4D00A038DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 457A56A82788DC4D00A038DB /* Main.storyboard */; };
 		457A56AC2788DC5000A038DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 457A56AB2788DC5000A038DB /* Assets.xcassets */; };
 		457A56AF2788DC5000A038DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 457A56AD2788DC5000A038DB /* LaunchScreen.storyboard */; };
+		457A56B72788E6C800A038DB /* imageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 457A56B62788E6C800A038DB /* imageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		457A56AB2788DC5000A038DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		457A56AE2788DC5000A038DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		457A56B02788DC5000A038DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		457A56B62788E6C800A038DB /* imageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				457A56A22788DC4D00A038DB /* AppDelegate.swift */,
 				457A56A42788DC4D00A038DB /* SceneDelegate.swift */,
 				457A56A62788DC4D00A038DB /* ViewController.swift */,
+				457A56B62788E6C800A038DB /* imageViewController.swift */,
 				457A56A82788DC4D00A038DB /* Main.storyboard */,
 				457A56AB2788DC5000A038DB /* Assets.xcassets */,
 				457A56AD2788DC5000A038DB /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				457A56A72788DC4D00A038DB /* ViewController.swift in Sources */,
 				457A56A32788DC4D00A038DB /* AppDelegate.swift in Sources */,
+				457A56B72788E6C800A038DB /* imageViewController.swift in Sources */,
 				457A56A52788DC4D00A038DB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
